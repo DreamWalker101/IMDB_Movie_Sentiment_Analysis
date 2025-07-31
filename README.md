@@ -50,7 +50,7 @@ IMDB_Sentiment_Analysis/
 Visual representation of our classifier’s performance:
 
 <p align="center">
-  <img src="Assets/Matrix.png" alt="Confusion Matrix" width="400"/>
+  <img src="Assets/matrix.png" alt="Confusion Matrix" width="400"/>
 </p>
 
 ---
