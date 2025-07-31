@@ -1,6 +1,6 @@
 # 🎬 IMDB Sentiment Analysis with Naive Bayes
 
-Welcome to the IMDB Sentiment Analysis project! This repository demonstrates how to perform sentiment classification on movie reviews using the **Naive Bayes** algorithm. The goal is to classify reviews as **Positive (+1)** or **Negative (-1)** using classical machine learning and NLP techniques.
+Welcome to the IMDB Sentiment Analysis project! This repository demonstrates how to perform sentiment classification on movie reviews using the **Naive Bayes** algorithm. The goal is to classify reviews as **Positive (+1)** or **Negative (0)** using classical machine learning and NLP techniques.
 
 ---
 
