@@ -157,5 +157,5 @@ MIT License. You’re free to use, modify, and distribute this project for perso
 ## 👨‍💻 Author
 
 **Ahmed Khan** – _AI & Web Developer_  
-📧 [Contact Me](mailto:your.email@example.com)  
+📧 [Contact Me](mailto:ahmed2@on5.io)  
 🌐 [on5.io](https://on5.io)
